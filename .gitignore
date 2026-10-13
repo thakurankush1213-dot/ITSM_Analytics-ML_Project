@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment / secrets
+.env
+*.env
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Database / credentials
+*.sql
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
